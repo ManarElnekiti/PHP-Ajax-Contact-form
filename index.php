@@ -43,7 +43,7 @@
     <!-- Footer -->
     <footer>
         <div class="wrapper clear">
-            <p>By: <span class= "name">Manar Elnekiti</a></p>
+            <p>By: <span class= "name">Manar Elnekiti</p>
         </div>
     </footer>
 </body>
